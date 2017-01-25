@@ -1,6 +1,6 @@
 # Employee-Record-Keeping
 
-Requires JDK 7/8 installation on your system
+Requires JDK 7/8 installed on your system
 
 This is a Console Java Application
 
