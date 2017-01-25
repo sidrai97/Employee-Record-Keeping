@@ -2,4 +2,4 @@
 
 This is a Console Java Application
 
-Stores Employee recors using file
+It stores Employee records in file
